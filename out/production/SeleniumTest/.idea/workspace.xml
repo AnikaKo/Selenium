@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="282d95c3-e1f0-4d60-9749-41a333f63f89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TestP/src/class6/logicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class7/src/BreakTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class7/src/DoWhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class7/src/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class7/src/ForLoops2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class7/src/ForLoops3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class7/src/ForLoops5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class7/src/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class7/src/WhileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class7/src/WhileRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaHomework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaHomework/src/Class9Array/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaHomework/src/Class9Array/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaHomework/src/Class9Array/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaHomework/src/Class9Array/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaHomework/src/Class9Array/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaHomework/src/Class9Array/TaskBuyItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaHomework/src/Class9Array/homeworkTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaReview/src/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaReview/src/com/syntax/review1/FirstReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaReview/src/com/syntax/review1/FirstReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/LogicalOperators1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/LogicalOperators2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/OperatorsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/PracticeVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/StringAddition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/SwitchCasedemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/Task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/VariableValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/VariablesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/VariablesDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/class5/LogicalOperators2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestP/out/production/TestP/class5/LogicalOperators2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/class5/SwitchCaseDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestP/out/production/TestP/class5/SwitchCaseDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/logicalOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/out/production/TestP/loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/LogicalOperators1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestP/src/class6/LogicalOperators1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/LogicalOperators2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestP/src/class6/LogicalOperators2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/OperatorsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/PracticeVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/StringAddition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/SwitchCasedemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestP/src/class6/SwitchCasedemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/VariableValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/VariablesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/VariablesDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/class5/LogicalOperators2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestP/src/class5/LogicalOperators2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/class5/SwitchCaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestP/src/class5/SwitchCaseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/class5/SwitchCaseDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestP/src/class5/SwitchCaseDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/logicalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestP/src/loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestP/src/class6/loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitClass03/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gitClass03/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitHubPushCode" beforeDir="false" afterPath="$PROJECT_DIR$/../gitHubPushCode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/DoubleComparsion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/TemperatureCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/annualSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/convert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/creditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/diploma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/dmv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/evenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/loan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/month.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/mortgage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/out/production/javaHomework/positiveNegative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/DoubleComparsion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/TemperatureCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/annualSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/convert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/creditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/diploma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/dmv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/evenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/loan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/month.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/mortgage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaHomework/src/positiveNegative.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M264XY7uMyYlJNt51gPMyEj3ad" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Homework">
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class01.Homework" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaunchBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaunchBrowser" />
+      <module name="SeleniumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaunchBrowser1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class01.LaunchBrowser1" />
+      <module name="SeleniumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maximize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class01.Maximize" />
+      <module name="SeleniumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Navigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class01.Navigate" />
+      <module name="SeleniumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework" />
+        <item itemvalue="Application.Maximize" />
+        <item itemvalue="Application.Navigate" />
+        <item itemvalue="Application.LaunchBrowser1" />
+        <item itemvalue="Application.LaunchBrowser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="282d95c3-e1f0-4d60-9749-41a333f63f89" name="Changes" comment="" />
+      <created>1676953140618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676953140618</updated>
+    </task>
+    <servers />
+  </component>
+</project>
